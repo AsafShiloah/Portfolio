@@ -8,6 +8,25 @@ I am a student at the Hebrew University of Jerusalem studying dual major in Neur
 
 ## Projects
 
+### LLM's bias manipulation project
+
+**Description**: This project investigates acquiescence bias in AI language models, focusing on their tendency to agree or disagree regardless of statement content. Techniques like the Chi-squared test and the "Chain of Thoughts" method were used to analyze and attempt to mitigate biases in models such as GPT-2, Gemma 2b, and Phi 2.
+
+**Technologies Used**: Python, PyTorch, Transformers, SciPy, Jupyter
+
+**Key Findings**:
+- GPT-2 showed a strong disagreement bias.
+- Gemma 2b exhibited a more balanced but still biased tendency.
+- Phi 2 consistently displayed a strong acquiescence bias.
+
+**De-Biasing Efforts**: Successfully de-biased Gemma 2b using the "Chain of Thoughts" method, though other models showed mixed responses to the interventions.
+
+**Link to Repository**: https://github.com/yoavy9/Hackathon.git
+
+**Lessons Learned**: Enhanced understanding of neural behavior in language models and gained practical experience in applying statistical methods for bias detection and mitigation.
+
+
+
 ### Machine Learning Hackathon - Introduction to Machine Learning
 
 #### Overview
