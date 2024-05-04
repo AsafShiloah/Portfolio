@@ -23,6 +23,8 @@ I participated in a machine learning hackathon designed for beginners, focusing 
 - Developed a predictive model, gaining hands-on experience with data preprocessing, feature engineering, and model selection.
 - Scored 4.8/5 which was at the 1%.
 
+**Link to Repository**: 
+
 ### Software Development at UMDigital
 
 #### Overview
