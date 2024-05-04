@@ -67,7 +67,7 @@ For my personal learning project, I am simulating a multi-agent system using act
  
 ## Contact
 
-Feel free to connect with me on www.linkedin.com/in/asaf-shiloah-b058b0278 or send me an email at asafshiloah@gmail.com
+Feel free to connect with me on www.linkedin.com/in/asaf-shiloah-b058b0278 or send me an email at asafshiloah@gmail.com.
 
 ---
 
