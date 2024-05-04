@@ -23,7 +23,7 @@ I participated in a machine learning hackathon designed for beginners, focusing 
 - Developed a predictive model, gaining hands-on experience with data preprocessing, feature engineering, and model selection.
 - Scored 4.8/5 which was at the 1%.
 
-**Link to Repository**: 
+**Link to Repository**: https://github.com/yoavy9/Hackathon.git
 
 ### Software Development at UMDigital
 
@@ -40,6 +40,8 @@ At UMDigital, I worked as a Software Developer where I focused on developing tes
 - Implemented various APIs to enhance the functionality and responsiveness of our automation tools, improving the overall workflow.
 - Designed and built robust automation tools using Google Apps Script, which continue to support daily operations at UMDigital.
 
+**Note**: The source code is private and not available for public viewing due to company policy regarding confidentiality.
+
 
 ### Simulation of Multi-Agent Systems (Research Project)
 
@@ -49,11 +51,13 @@ For my personal learning project, I am simulating a multi-agent system using act
 #### Technologies Used
 - Python
 - TensorFlow
-- OpenAI Gym
+- PyTorch
 
 #### Key Learning Points
 - Understanding the principles of reinforcement learning and its applications to multi-agent environments.
 - Developing a simple model to explore how agents learn and make decisions in a controlled setting.
+
+**Note**: Details and specific results of this research are confidential due to privacy concerns associated with the academic study.
 
 ## Skills
 
