@@ -21,7 +21,7 @@ I am a student at the Hebrew University of Jerusalem studying dual major in Neur
 
 **De-Biasing Efforts**: Successfully de-biased Gemma 2b using the "Chain of Thoughts" method, though other models showed mixed responses to the interventions.
 
-**Link to Repository**: https://github.com/yoavy9/Hackathon.git
+**Link to Repository**: https://github.com/AsafShiloah/LLM_Biase_Manipulation.git
 
 **Lessons Learned**: Enhanced understanding of neural behavior in language models and gained practical experience in applying statistical methods for bias detection and mitigation.
 
