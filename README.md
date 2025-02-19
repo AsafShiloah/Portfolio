@@ -21,7 +21,7 @@ I enjoy working on **technical projects that solve real-world problems**, whethe
 
 ⚙ **Technologies**: Python, LangChain, ChromaDB, Hugging Face Transformers  
 
-📌 **Repository**: [RAG_Research_Technion]([https://github.com/yotamgardosh/RAG-Research-Technion](https://github.com/AsafShiloah/RAG_Research_Technion))  
+📌 **Repository**: [📚 RAG-Based Retrieval System for System Engineering](https://github.com/AsafShiloah/RAG_Research_Technion)  
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy working on **technical projects that solve real-world problems**, whethe
 
 ⚙ **Technologies**: Python, TensorFlow, PyTorch  
 
-📌 **Repository**: [Actor_Critic_RL]((https://github.com/AsafShiloah/Actor_Critic_RL))  
+📌 **Repository**: [🤖 Actor-Critic Reinforcement Learning Simulation](https://github.com/AsafShiloah/Actor_Critic_RL)  
 
 ---
 
