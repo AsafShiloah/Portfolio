@@ -76,12 +76,9 @@ I enjoy working on **technical projects that solve real-world problems**, whethe
 - Developed **testing frameworks** for online ad systems.  
 - Integrated APIs to **optimize ad performance tracking**.  
 
-⚙ **Technologies**: Python, JavaScript, Google Apps Script  
+⚙ **Technologies**: Python, JavaScript, Google Apps Script, postgreSQL, GCP  
 
 📌 **Note**: This repository is **private due to company policy**. 
-
-
-
 
 
 ---
