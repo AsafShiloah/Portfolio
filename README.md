@@ -42,8 +42,8 @@ I enjoy working on **technical projects that solve real-world problems**, whethe
 📌 **Overview**: Studied **bias in AI language models**, focusing on **acquiescence bias** (models agreeing regardless of content).  
 
 🛠 **Key Contributions**:  
-- Used **statistical tests** (Chi-squared) to detect bias.  
-- Applied **Chain-of-Thought prompting** to reduce bias in **Gemma 2B**.  
+- Used **statistical tests** to detect bias.  
+- Applied **Chain-of-Thought prompting** and **In Context Learning** to reduce bias in **Gemma 2B** and other LLM's.  
 - Analyzed **bias tendencies across GPT-2, Gemma 2B, and Phi-2**.  
 
 ⚙ **Technologies**: Python, PyTorch, Transformers, SciPy  
